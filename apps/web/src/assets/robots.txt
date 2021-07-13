@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanity-angular-website-web-6sgorf8p.netlify.app
